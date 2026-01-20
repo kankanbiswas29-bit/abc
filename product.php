@@ -1,1 +1,1 @@
-<h3>All product</h3>
+<h3>All products</h3>
